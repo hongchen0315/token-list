@@ -1,17 +1,11 @@
 {
     "name": "Soswap Default List",
-    "timestamp": "2020-08-25T15:41:29.665Z",
-    "version": {
-      "major": 2,
-      "minor": 0,
-      "patch": 0
-    },
-    "tags": {},
     "logoURI": "ipfs://bafkreiarjy7aai6i6mpcmijhzyu6hkhpvq5j2iobtxp3cuthyxn2tqc34u",
     "keywords": [
       "soswap",
       "default"
     ],
+    "timestamp": "2020-08-25T15:41:29.665Z",
     "tokens": [
       {
         "name": "Sherpax Token",
@@ -69,6 +63,11 @@
         "chainId": 1506,
         "logoURI": ""
       }
-    ]
+    ],
+    "version": {
+      "major": 2,
+      "minor": 0,
+      "patch": 0
+    }
   }
   
