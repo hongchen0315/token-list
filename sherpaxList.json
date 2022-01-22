@@ -1,0 +1,74 @@
+{
+    "name": "Soswap Default List",
+    "timestamp": "2020-08-25T15:41:29.665Z",
+    "version": {
+      "major": 2,
+      "minor": 0,
+      "patch": 0
+    },
+    "tags": {},
+    "logoURI": "ipfs://bafkreiarjy7aai6i6mpcmijhzyu6hkhpvq5j2iobtxp3cuthyxn2tqc34u",
+    "keywords": [
+      "soswap",
+      "default"
+    ],
+    "tokens": [
+      {
+        "name": "Sherpax Token",
+        "address": "0x6B544e279684cEf4fC9aBCFfd7D1de0D0c926e84",
+        "symbol": "NNB",
+        "decimals": 18,
+        "chainId": 1506,
+        "logoURI": ""
+      },
+      {
+        "name": "Sherpax Token",
+        "address": "0x7d4567B7257cf869B01a47E8cf0EDB3814bDb963",
+        "symbol": "KSM",
+        "decimals": 18,
+        "chainId": 1506,
+        "logoURI": ""
+      },
+      {
+        "name": "Sherpax Token",
+        "address": "0x68A54b2826EF3f230996A8CD324a2177d7f6041E",
+        "symbol": "WNB",
+        "decimals": 18,
+        "chainId": 1506,
+        "logoURI": ""
+      },
+      {
+        "name": "Wrapped Sherpax",
+        "address": "0x3469E1DaC06611030AEce8209F07501E9A7aCC69",
+        "symbol": "SBTC",
+        "decimals": 18,
+        "chainId": 1506,
+        "logoURI": ""
+      },
+      {
+        "name": "Wrapped Sherpax",
+        "address": "0xA69c4A856794AB901508918Bd164c48445aa5B14",
+        "symbol": "A",
+        "decimals": 18,
+        "chainId": 1506,
+        "logoURI": ""
+      },
+      {
+        "name": "Wrapped Sherpax",
+        "address": "0xe9E48Fae3C533215a85f83318AAA6d31Af448d9F",
+        "symbol": "B",
+        "decimals": 18,
+        "chainId": 1506,
+        "logoURI": ""
+      },
+      {
+        "name": "Wrapped Sherpax",
+        "address": "0xE0325d3A79Ceb330E10b8364ff967E60db5fF2D0",
+        "symbol": "C",
+        "decimals": 18,
+        "chainId": 1506,
+        "logoURI": ""
+      }
+    ]
+  }
+  
